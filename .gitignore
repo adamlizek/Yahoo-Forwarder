@@ -1,0 +1,7 @@
+.idea/
+__pycache__/
+/data/driver/proxy_auth_plugin.zip
+/data/driver/USER_INFO.json
+build
+dist
+DEV_INFO.txt
